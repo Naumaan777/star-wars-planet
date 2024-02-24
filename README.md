@@ -38,6 +38,11 @@ The deployed site without an internal JSON Server can be found here.
 
 ![Screenshot (705)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/b1f09ce1-742c-436e-8b68-a0cf5c49e31f)
 
+### Pagination Page
+
+![Screenshot (704)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/2345ad7c-d280-4b68-bb13-86684093b7db)
+
+
 ## About 🌐
 
 Star Wars Planets Directory is a web application that showcases planets from the Star Wars universe using the Star Wars API (SWAPI).
