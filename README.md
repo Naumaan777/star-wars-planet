@@ -1,4 +1,4 @@
-# Star Wars Planet Directories
+# Star Wars Planet Directories With React
 
 This project was build with [Create React App](https://github.com/facebook/create-react-app).
 
