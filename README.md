@@ -1,10 +1,58 @@
-# Star Wars Planet Directories With React
+# Star Wars Planets Directory 🌌
 
-This project was build with [Create React App](https://github.com/facebook/create-react-app).
+## Overview 📖
 
-## Available Scripts
+My mission - choose to accept it, involves the creation of a web application that showcases planets from the Star Wars universe using the Star Wars API (SWAPI). This directory will not only feature information about each planet but also list its notable residents. This work will demonstrate my proficiency in API integration, frontend development, and your ability to produce a responsive and stylish user interface.Star Wars Planets Directory is a ReactJS project that showcases the planets and residents of the Star Wars movies. Importantly this project has development with react as an assignment for Aquera.
 
-In the project directory, you can run:
+The deployed site without an internal JSON Server can be found here.
+
+## Tech Stack Used 💻
+
+- ReactJS
+- TailwindCSS
+- DaisyUI (a TailwindCSS library for easy component styling)
+- HTML
+- Fetch API for data collection and display
+
+## Features 🌟
+
+- Unique entry into the website built by the react-typed library for an appealing UI
+- Displays all the planets in cards with effective pagination
+- Uses useState and useEffect for state management
+- Uses a carousel for displaying characters
+
+## Demo 📸
+
+### URL : 
+
+### Home Page/Landing Page
+![Screenshot (702)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/b35e611a-be47-48fb-8242-0b9437793039)
+
+
+### Planets Directory Page
+
+![Screenshot (703)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/0cd8ae8d-a505-43fd-b48f-7384cb784691)
+
+
+### Residents of a Particular Planet Page
+
+![Screenshot (705)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/b1f09ce1-742c-436e-8b68-a0cf5c49e31f)
+
+## About 🌐
+
+Star Wars Planets Directory is a web application that showcases planets from the Star Wars universe using the Star Wars API (SWAPI).
+
+## Getting Started with Create React App 🚀
+
+This project was bootstrapped with Create React App.
+
+In the project directory, you can run several commands:
+
+- `npm start`: Runs the app in the development mode. Open http://localhost:3000 to view it in the browser.
+- `npm test`: Launches the test runner in the interactive watch mode.
+- `npm run build`: Builds the app for production to the `build` folder.
+- `npm run eject`: Removes the single build dependency from your project.
+
 
 ### `npm start`
 
