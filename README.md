@@ -23,7 +23,7 @@ The deployed site without an internal JSON Server can be found here.
 
 ## Demo 📸
 
-### URL : 
+### URL : https://65da5e910ae7ed46419d9aea--react-star-directories.netlify.app/
 
 ### Home Page/Landing Page
 ![Screenshot (702)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/b35e611a-be47-48fb-8242-0b9437793039)
