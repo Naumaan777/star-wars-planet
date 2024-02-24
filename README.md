@@ -8,10 +8,10 @@ The deployed site without an internal JSON Server can be found here.
 
 ## Tech Stack Used 💻
 
-- ReactJS
-- TailwindCSS
-- DaisyUI (a TailwindCSS library for easy component styling)
 - HTML
+- CSS
+- JS
+- ReactJS
 - Fetch API for data collection and display
 
 ## Features 🌟
