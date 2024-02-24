@@ -20,12 +20,23 @@ The deployed site without Internal JSON Server is here.
 - Uses useState and useEffect for state management
 - Uses carousel for displaying characters
 
-## Demo Images And Explanation
+## Demo 
 
+### URL : 
 - Home Page
-- Hero Page after displaying the entry typed effect
-- Residents of a particular planet page with carousels
+
+![Screenshot (702)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/9425006f-d4d9-4503-abbd-4e013df7960c)
+
+
 - Planets directory page with pagination and planet cards
+  
+  ![Screenshot (703)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/32a9326b-5a31-4606-af4d-0287ceddead8)
+
+- Residents of a particular planet page with carousels
+
+  
+![Screenshot (705)](https://github.com/Naumaan777/star-wars-planet/assets/115418662/0aa7222e-948c-4be9-a97e-325f92cdeee3)
+
 
 ## Getting Started with Create React App
 
@@ -64,10 +75,6 @@ URL : https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
 ### Analyzing the Bundle Size
 
 URL : https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size
-
-### Making a Progressive Web App
-
-URL: https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app
 
 ### Advanced Configuration
 
