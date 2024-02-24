@@ -1,7 +1,7 @@
 # Star Wars Planets Directory App
 
 ## Overview
-My mission, should i choose to accept it, involves the creation of a web application that showcases planets from the Star Wars universe using the Star Wars API (SWAPI). This directory will not only feature information about each planet but also list its notable residents. work will demonstrate your proficiency in API integration, frontend development, and ability to produce a responsive and stylish user interface. Star Wars Planets Directory is a ReactJS project which shows the planets and the residents of Star Wars movies. It was built as an assignment for Aquera.
+My mission, choose to accept it, involves the creation of a web application that showcases planets from the Star Wars universe using the Star Wars API (SWAPI). This directory will not only feature information about each planet but also list its notable residents. work will demonstrate your proficiency in API integration, frontend development, and ability to produce a responsive and stylish user interface. Star Wars Planets Directory is a ReactJS project which shows the planets and the residents of Star Wars movies. It was built as an assignment for Aquera.
 
 The deployed site without Internal JSON Server is here.
 
